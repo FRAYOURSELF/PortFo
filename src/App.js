@@ -4,6 +4,7 @@ import Home from "./routes/Home";
 import About from "./routes/About";
 import Project from "./routes/Project";
 import Contact from "./routes/Contact";
+import Miscellaneous from "./routes/Miscellaneous";
 import Popcorn from "./projectsName/Popcorn";
 import Delivery from "./projectsName/Delivery";
 import Secure from "./projectsName/secure";
@@ -22,6 +23,7 @@ function App() {
         <Route path="/delivery" element={<Delivery/>} />
         <Route path="/mrq" element={<Mrq/>} />
         <Route path="/secure" element={<Secure/>} />
+        <Route path="/miscel" element={<Miscellaneous/>} />
       </Routes>
     </>
   );

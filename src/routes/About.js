@@ -4,18 +4,17 @@ import Footer from "../components/Footer";
 import Bubble from "../components/bubble";
 import AboutContent from "../components/AboutContent";
 import Scientist from '../components/scientist';
-import NotInvented from './../components/notInvented';
 import Disclaimer from '../components/disclaimer';
+import Rock from "../components/Rock";
 const About = () => {
   return (
     <div>
       <Navbar/>
       <Bubble/>
-      
-      <NotInvented/>
       <Disclaimer/>
       <Scientist/>
-      <AboutContent/>
+      <Rock/>
+      {/* <AboutContent/> */}
       <Footer/>
     </div>
   )

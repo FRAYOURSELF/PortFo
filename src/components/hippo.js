@@ -69,6 +69,11 @@ function updateEyePosition(event) {
   return (
     
     <div className="hippo">
+      <div className="hips">
+        <h1>Meet my Hippo...</h1>
+        <p>His eyes move around with you.</p>
+        <p>To check his teeth and tongue, give a hover to him.</p>
+      </div>
       <button>
   
   <svg viewBox="0 0 242 109" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink">

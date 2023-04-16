@@ -67,7 +67,7 @@ const projectN = ()=> {
             </h2>
             <p>This <b>Blockchain Healthcare </b>Application was developed by me and my fellow teammate for an event HackaNoodle by Zomato.</p>
             <p>For more details-</p>
-            <Link to="/poPCorn" className="btn">@SecureYou</Link>
+            <Link to="/secure" className="btn">@SecureYou</Link>
         </div>
     </div>
          </div>

@@ -6,6 +6,7 @@ const spotschase = () => {
   return (
     <div className='spots'>
       <section className='containspots'>
+      <h1>Play with my Magic</h1>
       <span></span>
       <span></span>
       <span></span>

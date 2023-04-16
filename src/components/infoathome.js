@@ -88,6 +88,7 @@ const infoathome = () => {
           </div>
           <div className="line-two"></div>
         </div>
+        
         <div className="picc"><img src={imgGirl} className=""/></div>
     </div>
   )

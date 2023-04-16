@@ -6,9 +6,9 @@ const HeroImg2 = () => {
     <div className="hero-img">
       <div className="heading">
         <div class="container">
-            <h2>They say if you love what you do, you will never work aa day in your life.</h2>
+            <h2>Join me for exciting Projects</h2>
 
-            <p>The collection of Projects below are just more than samples of work, they're a result of some fun</p>
+            <p>The collection of Projects earlier are just more than samples of work, they're a result of some fun</p>
                 
             <p>Yay for bursts of inspiration!</p>
                 </div>

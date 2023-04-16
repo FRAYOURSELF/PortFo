@@ -11,7 +11,7 @@ const inspo = () => {
       x:-20,
       ease:Power3.easeOut,
       scrollTrigger:{
-        trigger:".inf"
+        trigger:".dnt"
       }
     });
     gsap.from(".baack", {
@@ -21,7 +21,7 @@ const inspo = () => {
       x:20,
       ease:Power3.easeOut,
       scrollTrigger:{
-        trigger:".inf"
+        trigger:".dnt"
       }
     });
   })
@@ -30,7 +30,8 @@ const inspo = () => {
     <div className="inspo">
         <div className="backgro"><div className="left">
             <h2>I am on my way to showcase my skills of coding and development.</h2>
-            <h1>Are you with me?</h1>
+            <div className="dnt">
+            <h1>Are you with me?</h1></div>
          </div>
         </div>
         <div className="baack"><div className="right">
